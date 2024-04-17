@@ -6,3 +6,5 @@ x=a-b
 
 #substraction
 x=a-b-c
+#division
+y=a/b
